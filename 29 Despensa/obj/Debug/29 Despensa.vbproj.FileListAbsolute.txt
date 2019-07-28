@@ -1,0 +1,2 @@
+c:\users\liceo compu-market\documents\visual studio 2015\Projects\29 Despensa\29 Despensa\bin\Debug\29 Despensa.exe.config
+C:\Users\Liceo Compu-Market\Desktop\29 Despensa\29 Despensa\bin\Debug\29 Despensa.exe.config
